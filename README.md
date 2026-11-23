@@ -197,6 +197,7 @@ plt.show()
 
 - The grayscale version of the input image is displayed.
 - Serves as the input for thresholding operations.
+- 
 <img width="180" height="258" alt="image" src="https://github.com/user-attachments/assets/7c980be9-9e53-4deb-b12d-164371352693" />
 
 
@@ -207,7 +208,8 @@ plt.show()
 - Thresholded image is displayed.
 - A fixed threshold value is used for segmentation.
 - Pixels are classified as foreground or background.
-<<img width="235" height="300" alt="image" src="https://github.com/user-attachments/assets/545c440c-f51f-45b7-b029-1ecb911d325c" />
+  
+<img width="235" height="300" alt="image" src="https://github.com/user-attachments/assets/545c440c-f51f-45b7-b029-1ecb911d325c" />
 
 
 
@@ -218,6 +220,7 @@ plt.show()
 - Adaptive Gaussian Thresholded image is displayed.
 - Threshold values vary across different regions of the image.
 - Suitable for images with uneven illumination.
+  
 <img width="276" height="307" alt="image" src="https://github.com/user-attachments/assets/a9739a2d-309d-463f-9068-9cea48d00108" />
 
 
@@ -228,6 +231,7 @@ plt.show()
 - Otsu segmented image is displayed.
 - Optimal threshold value is calculated automatically.
 - Produces improved segmentation for bimodal histograms.
+  
 <img width="217" height="317" alt="image" src="https://github.com/user-attachments/assets/00a5f71b-3e65-4435-8747-8b2c21ac2692" />
 
 
